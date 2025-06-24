@@ -1,7 +1,11 @@
-<h1>Luiz Rattacaso</h1>
-<h3>desenvolvedor back-end</h3>
+# Luiz Rattacaso
+**`Desenvolvedor Back-end`**
+
 Olá, seja bem-vindo ao meu GitHub.👋
+
+Me chamo Luiz Felype Rattacaso, sou estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco. Tenho bastente interesses em áreas de desenvolvimento back-end e cybersegurança.
 Aqui você encontra alguns dos meus principais projetos!
+
 <div>
 <h2>Estatísticas</h2>
 <p>
@@ -18,24 +22,46 @@ Aqui você encontra alguns dos meus principais projetos!
   />
 </p>
 
-<!-- Força quebra de linha -->
+<div style="text-align: center;">
+  <h3>Linguagens utilizadas</h3>
+  <div>
+    <img
+      alt="Python" 
+      title="Python"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+    <img 
+      alt="Java" 
+      title="Java"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    />
+  </div>
+</div>
 
-<!-- Ícones das tecnologias -->
-<div>
-  <img 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />
-  <img 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-  />
+<br>
+
+<div style="text-align: center;">
+  <h3>Ferramentas</h3>
+  <div>
+    <img
+      alt="VsCode" 
+      title="VsCode"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+    />
+    <img 
+      alt="intellij" 
+      title="intellij"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+    />
+  </div>
 </div>
 
 
