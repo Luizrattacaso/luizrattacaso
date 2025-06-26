@@ -3,7 +3,7 @@
 
 Olá, seja bem-vindo ao meu GitHub.👋
 
-Me chamo Luiz Felype Rattacaso, sou estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco. Tenho bastente interesses em áreas de desenvolvimento back-end e cybersegurança.
+Me chamo Luiz Felype Rattacaso, sou estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco. Tenho bastante interesse em áreas de desenvolvimento back-end e cybersegurança.
 Aqui você encontra alguns dos meus principais projetos!
 
 <div>
@@ -63,20 +63,3 @@ Aqui você encontra alguns dos meus principais projetos!
     />
   </div>
 </div>
-
-
-
-<!--
-**Luizrattacaso/luizrattacaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
