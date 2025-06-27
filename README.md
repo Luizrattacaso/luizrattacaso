@@ -62,4 +62,5 @@ Aqui você encontra alguns dos meus principais projetos!
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
     />
   </div>
+  ![Snake animation](https://github.com/Luizrattacaso)
 </div>
