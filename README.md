@@ -1,66 +1,72 @@
 # Luiz Rattacaso
-**`Desenvolvedor Back-end`**
+**Desenvolvedor Back-end**
 
-Olá, seja bem-vindo ao meu GitHub.👋
+Olá, seja bem-vindo ao meu GitHub. 👋
 
-Me chamo Luiz Felype Rattacaso, sou estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco. Tenho bastante interesse em áreas de desenvolvimento back-end e cybersegurança.
+Me chamo Luiz Felype Rattacaso, sou estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco. Tenho bastante interesse em áreas de desenvolvimento back-end e cybersegurança.  
 Aqui você encontra alguns dos meus principais projetos!
 
-<div>
-<h2>Estatísticas</h2>
-<p>
+---
+
+## Estatísticas
+
+<p align="center">
   <img 
     alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api?username=luizrattacaso&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="Top Languages" 
-    height="150" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrattacaso&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
-<div style="text-align: center;">
-  <h3>Linguagens utilizadas</h3>
-  <div>
-    <img
-      alt="Python" 
-      title="Python"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-    />
-    <img 
-      alt="Java" 
-      title="Java"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-    />
-  </div>
-</div>
+## Linguagens Utilizadas
 
-<br>
+<p align="center">
+  <img
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
+  &nbsp;
+  <img 
+    alt="Java" 
+    title="Java"
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+  />
+</p>
 
-<div style="text-align: center;">
-  <h3>Ferramentas</h3>
-  <div>
-    <img
-      alt="VsCode" 
-      title="VsCode"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-    />
-    <img 
-      alt="intellij" 
-      title="intellij"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
-    />
-  </div>
-  ![Snake animation](https://github.com/Luizrattacaso)
-</div>
+## Ferramentas
+
+<p align="center">
+  <img
+    alt="VsCode" 
+    title="VsCode"
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+  />
+  &nbsp;
+  <img 
+    alt="IntelliJ" 
+    title="IntelliJ"
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+  />
+</p>
+
+---
+
+## Snake Animation
+
+<p align="center">
+  <img 
+    alt="Snake animation"
+    src="https://raw.githubusercontent.com/luizrattacaso/luizrattacaso/output/github-contribution-grid-snake.svg" 
+  />
+</p>
+
