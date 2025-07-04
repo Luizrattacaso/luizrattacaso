@@ -6,20 +6,20 @@ Olá, seja bem-vindo ao meu GitHub. 👋
 Me chamo Luiz Felype Rattacaso, sou estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco. Tenho bastante interesse em áreas de desenvolvimento back-end e cybersegurança.  
 Aqui você encontra alguns dos meus principais projetos!
 
----
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
 
 ## Estatísticas
 
 <p align="center">
   <img 
     alt="GitHub Stats" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=luizrattacaso&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=luizrattacaso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="Top Languages" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrattacaso&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrattacaso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
