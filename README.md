@@ -6,24 +6,34 @@ Olá, seja bem-vindo ao meu GitHub. 👋
 Me chamo Luiz Felype Rattacaso, sou estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco. Tenho bastante interesse em áreas de desenvolvimento back-end e cybersegurança.  
 Aqui você encontra alguns dos meus principais projetos!
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+<p align="center">
+<a href="mailto:luizrattacaso@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+</a>
+
+<a href="https://www.linkedin.com/in/luizrattacaso/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+</a>
+</p>
 
 ## Estatísticas
 
 <p align="center">
   <img 
-    alt="GitHub Stats" 
-    height="200"
+    alt="GitHub Stats"
+    heigth= "200"
+    width="400"
     src="https://github-readme-stats.vercel.app/api?username=luizrattacaso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
-    alt="Top Languages" 
-    height="200"
+    alt="Top Languages"
+    heigth= "200"
+    width="400"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrattacaso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
-## Linguagens Utilizadas
+ <h2 align="center">Linguagens Utilizadas</h2>
 
 <p align="center">
   <img
@@ -41,7 +51,7 @@ Aqui você encontra alguns dos meus principais projetos!
   />
 </p>
 
-## Ferramentas
+ <h2 align="center">Ferramentas</h2>
 
 <p align="center">
   <img
@@ -59,14 +69,13 @@ Aqui você encontra alguns dos meus principais projetos!
   />
 </p>
 
----
-
-## Snake Animation
-
 <p align="center">
-  <img 
-    alt="Snake animation"
-    src="https://raw.githubusercontent.com/luizrattacaso/luizrattacaso/output/github-contribution-grid-snake.svg" 
-  />
+  <img src="https://raw.githubusercontent.com/matfantinel/terminal-cyber-animation/main/cyber-security.gif" alt="Cybersecurity animation" />
 </p>
 
+<h1 align="center"></h1>
+
+<p align="center">
+  <i>""Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças."
+— Charles Darwin"</i>
+</p>
