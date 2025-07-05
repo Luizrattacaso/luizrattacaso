@@ -7,7 +7,7 @@ Me chamo Luiz Felype Rattacaso, sou estudante de Sistemas de Informação na Uni
 Aqui você encontra alguns dos meus principais projetos!
 
 <p align="center">
-<a href="mailto:luizrattacaso@gmail.com" target="_blank">
+<a href="mailto:rattacasoluiz03@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
 </a>
 
