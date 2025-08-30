@@ -21,15 +21,11 @@ Aqui você encontra alguns dos meus principais projetos!
 <p align="center">
   <img 
     alt="GitHub Stats"
-    heigth= "200"
-    width="400"
-    src="https://github-readme-stats.vercel.app/api?username=luizrattacaso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=luizrattacaso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&card_width=320"
   />
   <img 
     alt="Top Languages"
-    heigth= "200"
-    width="400"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrattacaso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrattacaso&theme=tokyonight&layout=normal&custom_title=Tecnologias&langs_count=9&hide_border=true&card_width=320"
   />
 </p>
 
@@ -76,6 +72,6 @@ Aqui você encontra alguns dos meus principais projetos!
 <h1 align="center"></h1>
 
 <p align="center">
-  <i>""Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças."
-— Charles Darwin"</i>
+  <i>"Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças."
+— Charles Darwin</i>
 </p>
