@@ -38,11 +38,12 @@ Tenho grande interesse em **desenvolvimento back-end** e **cibersegurança**, e 
   <img alt="Java" title="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 </p>
 
-## ⚙️ Ferramentas e Ambientes
+## ⚙️ Ferramentas
 <p align="center">
   <img alt="VSCode" title="VSCode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   &nbsp;&nbsp;
   <img alt="IntelliJ IDEA" title="IntelliJ IDEA" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
+   <img alt="MySQL" title="IntelliJ IDEA" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" />
   <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
   <img alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
