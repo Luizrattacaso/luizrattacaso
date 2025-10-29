@@ -18,25 +18,41 @@ Tenho grande interesse em **desenvolvimento back-end** e **cibersegurança**, e 
 </p>
 
 ## 📊 Estatísticas
-<p align="center">
-  <img 
-    alt="GitHub Stats"
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=luizrattacaso&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"
-  />
-  <img 
-    alt="Top Languages"
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrattacaso&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true"
-  />
-</p>
+<div align="center">
 
-## 🛠️ Tecnologias
-<p align="center">
-  <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  &nbsp;&nbsp;
-  <img alt="Java" title="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-</p>
+  <!-- Linha 1: GitHub Stats + Top Languages -->
+  <a href="https://github.com/luizrattacaso">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=luizrattacaso&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" 
+      height="165"
+    />
+  </a>
+  <a href="https://github.com/luizrattacaso">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrattacaso&layout=compact&theme=tokyonight&hide_border=true" 
+      height="165"
+    />
+  </a>
+
+  <!-- Linha 3: Contribution Graph -->
+  <br><br>
+  <a href="https://github.com/luizrattacaso">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=luizrattacaso&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" 
+      width="90%"
+    />
+  </a>
+
+  <!-- Linha 4: Trophies -->
+  <br><br>
+  <a href="https://github.com/luizrattacaso">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=luizrattacaso&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" 
+      width="90%"
+    />
+  </a>
+
+</div>
 
 ## ⚙️ Ferramentas
 <p align="center">
