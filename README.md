@@ -29,9 +29,10 @@ Tenho grande interesse em **desenvolvimento back-end** e **cibersegurança**, e 
   </a>
   <a href="https://github.com/luizrattacaso">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrattacaso&layout=compact&theme=tokyonight&hide_border=true" 
-      height="165"
-    />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrattacaso&layout=compact&theme=tokyonight&hide_border=true&hide=shell"
+  height="165"
+/>
+    
   </a>
 
   <!-- Linha 3: Contribution Graph -->
