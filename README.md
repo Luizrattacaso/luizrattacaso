@@ -2,61 +2,13 @@
 **Desenvolvedor de Software | Estudante de Sistemas de Informação**
 
 <p align="center">
-  <div style="
-    background: #0d1117;
-    border-radius: 10px;
-    padding: 20px;
-    max-width: 600px;
-    font-family: 'Fira Code', monospace;
-    font-size: 16px;
-    color: #c9d1d9;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-    margin: 20px auto;
-    position: relative;
-  ">
-    <!-- Linha de comando simulada -->
-    <div style="margin-bottom: 6px;">
-      <span style="color: #3BB143;">luizrattacaso@github</span>:<span style="color: #7aa2f7;">~</span>$ whoami
-    </div>
-    <div style="margin-bottom: 12px; color: #e0e0e0; font-weight: 500;">Luiz Rattacaso</div>
-
-  <div style="margin-bottom: 6px;">
-    <span style="color: #3BB143;">luizrattacaso@github</span>:<span style="color: #7aa2f7;">~</span>$ role
-  </div>
-  <div style="margin-bottom: 12px; color: #e0e0e0;">Software Developer intern (Python, JavaScript, Java)</div>
-
-  <div style="margin-bottom: 6px;">
-    <span style="color: #3BB143;">luizrattacaso@github</span>:<span style="color: #7aa2f7;">~</span>$ status
-  </div>
-  <div style="margin-bottom: 16px; color: #a5e075;">🚀 Sempre aprendendo...</div>
-
-  <div>
-    <span style="color: #3BB143;">luizrattacaso@github</span>:<span style="color: #7aa2f7;">~</span>$ 
-    <span style="opacity: 0.7;">read_profile --explore</span>
-    <span style="
-      display: inline-block;
-      width: 6px;
-      height: 16px;
-      background: #3BB143;
-      margin-left: 2px;
-      animation: blink 1.2s infinite;
-    "></span>
-  </div>
-  </div>
-
-  <style>
-    @keyframes blink {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0; }
-    }
-  </style>
+  <img src="https://raw.githubusercontent.com/luizrattacaso/luizrattacaso/main/terminal.svg" alt="Terminal" />
 </p>
 
 <h2>Bem-vindo ao meu GitHub! 👋</h2>
 
 <p style="color: #4cbe53ff; font-family: 'Fira Code', monospace; font-size: 16px; line-height: 1.6;">
-  Sou Luiz Felype Rattacaso, estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE).  
-  Aqui compartilho projetos, aprendizados e reflexões sobre desenvolvimento. Seu feedback, sugestões ou colaborações são sempre bem-vindos — e se houver um projeto em que possa contribuir, estou à disposição.
+  Sou Luiz Felype Rattacaso, estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE). Aqui compartilho projetos, aprendizados e reflexões sobre desenvolvimento. Seu feedback, sugestões ou colaborações são sempre bem-vindos — e se houver um projeto em que possa contribuir, estou à disposição.
 </p>
 
 ## 🌐 Onde me encontrar
