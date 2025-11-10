@@ -4,44 +4,44 @@
 <p align="center">
   <div style="
     background: #0d1117;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    padding: 16px;
+    border-radius: 10px;
+    padding: 20px;
     max-width: 600px;
-    font-family: 'Fira Code', 'Consolas', 'Monaco', monospace;
-    font-size: 14px;
+    font-family: 'Fira Code', monospace;
+    font-size: 16px;
     color: #c9d1d9;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
     margin: 20px auto;
-    line-height: 1.4;
+    position: relative;
   ">
-    <div style="margin-bottom: 8px;">
-      <span style="color: #79c0ff;">user@github</span>:<span style="color: #a5d6ff;">~</span>$ whoami
+    <!-- Linha de comando simulada -->
+    <div style="margin-bottom: 6px;">
+      <span style="color: #3BB143;">luizrattacaso@github</span>:<span style="color: #7aa2f7;">~</span>$ whoami
     </div>
-    <div style="color: #3BB143; margin-bottom: 8px; font-weight: 500;">Luiz Felype Rattacaso</div>
+    <div style="margin-bottom: 12px; color: #e0e0e0; font-weight: 500;">Luiz Rattacaso</div>
 
-    <div style="margin-bottom: 8px;">
-      <span style="color: #79c0ff;">user@github</span>:<span style="color: #a5d6ff;">~</span>$ role
-    </div>
-    <div style="color: #f8f8f2; margin-bottom: 8px;">Software Developer intern (Python, JavaScript, Java)</div>
+  <div style="margin-bottom: 6px;">
+    <span style="color: #3BB143;">luizrattacaso@github</span>:<span style="color: #7aa2f7;">~</span>$ role
+  </div>
+  <div style="margin-bottom: 12px; color: #e0e0e0;">Software Developer intern (Python, JavaScript, Java)</div>
 
-    <div style="margin-bottom: 8px;">
-      <span style="color: #79c0ff;">user@github</span>:<span style="color: #a5d6ff;">~</span>$ status
-    </div>
-    <div style="color: #a5e075; margin-bottom: 12px;">🚀 Always learning...</div>
+  <div style="margin-bottom: 6px;">
+    <span style="color: #3BB143;">luizrattacaso@github</span>:<span style="color: #7aa2f7;">~</span>$ status
+  </div>
+  <div style="margin-bottom: 16px; color: #a5e075;">🚀 Sempre aprendendo...</div>
 
-    <div>
-      <span style="color: #79c0ff;">user@github</span>:<span style="color: #a5d6ff;">~</span>$ <span style="color: #f8f8f2;">read_profile --explore</span>
-      <span style="
-        display: inline-block;
-        width: 8px;
-        height: 14px;
-        background: #3BB143;
-        margin-left: 2px;
-        vertical-align: middle;
-        animation: blink 1s infinite;
-      "></span>
-    </div>
+  <div>
+    <span style="color: #3BB143;">luizrattacaso@github</span>:<span style="color: #7aa2f7;">~</span>$ 
+    <span style="opacity: 0.7;">read_profile --explore</span>
+    <span style="
+      display: inline-block;
+      width: 6px;
+      height: 16px;
+      background: #3BB143;
+      margin-left: 2px;
+      animation: blink 1.2s infinite;
+    "></span>
+  </div>
   </div>
 
   <style>
