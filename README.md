@@ -64,15 +64,7 @@
       width="90%"
     />
   </a>
-
-  <!-- Linha 4: Trophies -->
   <br><br>
-  <a href="https://github.com/luizrattacaso">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=luizrattacaso&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" 
-      width="90%"
-    />
-  </a>
 
 </div>
 
