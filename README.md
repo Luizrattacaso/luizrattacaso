@@ -1,22 +1,21 @@
 # Luiz Rattacaso  
-**Desenvolvedor de Software | Estudante de Sistemas de Informação**
+**Full-stack developer | Information Systems student**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/luizrattacaso/luizrattacaso/main/terminal.svg" alt="Terminal" />
 </p>
 
-<h2>Bem-vindo ao meu GitHub! 👋</h2>
+<h2>Welcome to my GitHub!</h2>
 
 <p style="color: #4cbe53ff; font-family: 'Fira Code', monospace; font-size: 16px; line-height: 1.6;">
-  Sou Luiz Felype Rattacaso, estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE). Aqui compartilho projetos, aprendizados e reflexões sobre desenvolvimento. Seu feedback, sugestões ou colaborações são sempre bem-vindos — e se houver um projeto em que possa contribuir, estou à disposição.
+  Hey, I'm Luiz Felype Rattacaso, and I'm a full-stack developer and a Information Systems student at UFRPE(Universidade Federal Rural de Pernambuco). Here you'll find a collection of my projects, experiments, and the things I've been exploring in the world of development. I truly value feedback and collaboration, so feel free to share your ideas or suggestions - and if there's a project where I can contribute, I'would be glad to be part of it
 </p>
 
-## 🌐 Onde me encontrar
+## Where you can find me...
 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 20px 0;">
 
-  <!-- Gmail -->
   <button style="border: none; background: transparent; padding: 0; margin: 0; cursor: pointer;">
     <a href="mailto:rattacasoluiz03@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="
@@ -25,8 +24,7 @@
       " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 8px rgba(209, 72, 54, 0.5);'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(209, 72, 54, 0.4);'"/>
     </a>
   </button>
-    
-  <!-- LinkedIn -->
+  
   <button style="border: none; background: transparent; padding: 0; margin: 0; cursor: pointer;">
     <a href="https://www.linkedin.com/in/luizrattacaso/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="
@@ -38,24 +36,7 @@
   </div>
 </p>
 
-## 📊 Estatísticas
-<div align="center">
-
-  <a href="https://github.com/luizrattacaso">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=luizrattacaso&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-      height="170" 
-      alt="Estatísticas do GitHub"
-    />
-  </a>
-  <a href="https://github.com/luizrattacaso">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrattacaso&layout=compact&theme=tokyonight&hide_border=true" 
-      height="165"
-    />
-  </a>
-</div>
-
+## statistics
   <!-- Linha 3: Contribution Graph -->
   <br><br>
   <a href="https://github.com/luizrattacaso">
@@ -68,7 +49,7 @@
 
 </div>
 
-## Linguagens
+## Languages
 <p align="center">
   <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   &nbsp;&nbsp;
@@ -83,13 +64,15 @@
   <img alt="CSS3" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 </p>
 
-## Ferramentas
+## Tools
 <p align="center">
   <img alt="VSCode" title="VSCode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   &nbsp;&nbsp;
   <img alt="IntelliJ IDEA" title="IntelliJ IDEA" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
   <img alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
+<img alt="Node.js" title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img alt="MySQL" title="IntelliJ IDEA" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="Docker" title="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" />
   <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
   <img alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
@@ -101,4 +84,3 @@
   <i>"Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças."  
   — Charles Darwin</i>
 </p>
-
