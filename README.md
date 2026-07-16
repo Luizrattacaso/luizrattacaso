@@ -11,44 +11,6 @@
   Hey, I'm Luiz Felype Rattacaso, and I'm a full-stack developer and a Information Systems student at UFRPE(Universidade Federal Rural de Pernambuco). Here you'll find a collection of my projects, experiments, and the things I've been exploring in the world of development. I truly value feedback and collaboration, so feel free to share your ideas or suggestions - and if there's a project where I can contribute, I'would be glad to be part of it
 </p>
 
-## Where you can find me...
-
-<p align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 20px 0;">
-
-  <button style="border: none; background: transparent; padding: 0; margin: 0; cursor: pointer;">
-    <a href="mailto:rattacasoluiz03@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="
-        transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out; /* Adiciona transição para sombra */
-        box-shadow: 0 4px 6px rgba(209, 72, 54, 0.4); /* Sombra na cor escura do Gmail (D14836) */
-      " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 8px rgba(209, 72, 54, 0.5);'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(209, 72, 54, 0.4);'"/>
-    </a>
-  </button>
-  
-  <button style="border: none; background: transparent; padding: 0; margin: 0; cursor: pointer;">
-    <a href="https://www.linkedin.com/in/luizrattacaso/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="
-        transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out; /* Adiciona transição para sombra */
-        box-shadow: 0 4px 6px rgba(10, 102, 194, 0.4); /* Sombra na cor escura do LinkedIn (0A66C2) */
-      " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 8px rgba(10, 102, 194, 0.5);'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 6px rgba(10, 102, 194, 0.4);'"/>
-    </a>
-  </button>
-  </div>
-</p>
-
-## statistics
-  <!-- Linha 3: Contribution Graph -->
-  <br><br>
-  <a href="https://github.com/luizrattacaso">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=luizrattacaso&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" 
-      width="90%"
-    />
-  </a>
-  <br><br>
-
-</div>
-
 ## Languages
 <p align="center">
   <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -64,6 +26,7 @@
   <img alt="CSS3" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 </p>
 
+
 ## Tools
 <p align="center">
   <img alt="VSCode" title="VSCode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
@@ -78,9 +41,20 @@
   <img alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
 </p>
 
----
+## Statistics
 
-<p align="center">
-  <i>"Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças."  
-  — Charles Darwin</i>
-</p>
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizrattacaso&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizrattacaso&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizrattacaso&theme=github_dark)
+
+</div>
+
+## Where you can find me...
+<div display=flex align="center" >
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-EE4C2C?style=flat-square&logo=gmail&logoColor=white)](mailto:rattacasoluiz03@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-3776AB?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luizrattacaso/)
+
+</div>
