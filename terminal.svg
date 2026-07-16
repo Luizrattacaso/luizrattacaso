@@ -33,13 +33,13 @@
     <text x="20" y="80">
       <tspan class="prompt-user">luizrattacaso@github</tspan><tspan class="prompt-path">:</tspan><tspan class="prompt-path">~</tspan><tspan class="output">$ role</tspan>
     </text>
-    <text x="20" y="100" class="output">Software Developer intern (Python, JavaScript, Java)</text>
+    <text x="20" y="100" class="output">Fullstack Developer (Python, JavaScript, Java, React, NodeJS)</text>
     
     <!-- status command -->
     <text x="20" y="125">
       <tspan class="prompt-user">luizrattacaso@github</tspan><tspan class="prompt-path">:</tspan><tspan class="prompt-path">~</tspan><tspan class="output">$ status</tspan>
     </text>
-    <text x="20" y="145" class="status">🚀 Sempre aprendendo...</text>
+    <text x="20" y="145" class="status"> Working on some new projects...</text>
     
     <!-- read_profile command -->
     <text x="20" y="175">
