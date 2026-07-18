@@ -8,7 +8,7 @@
 <h2>Welcome to my GitHub!</h2>
 
 <p style="color: #4cbe53ff; font-family: 'Fira Code', monospace; font-size: 16px; line-height: 1.6;">
-  Hey, I'm Luiz Felype Rattacaso, and I'm a full-stack developer and a Information Systems student at UFRPE(Universidade Federal Rural de Pernambuco). Here you'll find a collection of my projects, experiments, and the things I've been exploring in the world of development. I truly value feedback and collaboration, so feel free to share your ideas or suggestions - and if there's a project where I can contribute, I'would be glad to be part of it
+  Hey, I'm Luiz Felype Rattacaso, and I'm a full-stack developer and an Information Systems student at UFRPE(Universidade Federal Rural de Pernambuco). Here you'll find a collection of my projects, experiments, and the things I've been exploring in the world of development. I truly value feedback and collaboration, so feel free to share your ideas or suggestions - and if there's a project where I can contribute, I would be glad to be part of it
 </p>
 
 ## Languages
@@ -56,5 +56,10 @@
   
   [![Gmail](https://img.shields.io/badge/Gmail-EE4C2C?style=flat-square&logo=gmail&logoColor=white)](mailto:rattacasoluiz03@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-3776AB?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luizrattacaso/)
-
+  <div>
+    <p>Just as a hobby I spend a few minutes of my day to learn new languages, so feel free to follow me here as well</p>
+    <a href="https://www.duolingo.com/profile/LuizRattacaso">
+      <img src="https://duolingo-stats-card.vercel.app/api?username=LuizRattacaso&theme=beach" alt="Duolingo Stats" >
+    </a>
+  </div>
 </div>
